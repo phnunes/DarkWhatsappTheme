@@ -5,6 +5,7 @@ Pré-requisitos:
 - Habilitar "Modo do Desenvolvedor" em: chrome://extensions/
 
 Passos:
+
 1 - Digite: chrome://extensions/ na barra de url do navegador
 
 2 - Click no botão "Carregar sem compactação"
