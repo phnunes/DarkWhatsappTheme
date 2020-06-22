@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Dark Theme WhatsApp Web",
+    "description": "Dark Theme for WhatsApp Web",
+    "author": "Pedro Henrique Lino Trautwein Nunes",
+    "browser_action": {
+   	 "default_title": "Dark Theme WhatsApp Web",
+   	 "default_popup": "index.html",
+   	 "default_icon": "icon.png"
+    },
+  "permissions": ["storage", "activeTab"],
+    "content_scripts": [
+        {
+            "matches": ["https://web.whatsapp.com/, http://web.whatsapp.com/, web.whatsapp.com"],
+            "js" : ["index.js"]
+        }
+    ]
+}
