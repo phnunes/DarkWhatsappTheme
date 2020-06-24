@@ -1,12 +1,12 @@
 # Dark Whatsapp Theme
-A Chrome extention to set dark theme on Whatsapp Web
+A Chrome/Opera extention to set dark theme on Whatsapp Web
 
 Pré-requisitos:
-- Habilitar "Modo do Desenvolvedor" em: chrome://extensions/
+- Habilitar "Modo do Desenvolvedor" em: chrome://extensions/ || opera://extensions/
 
 Passos:
 
-1 - Digite: chrome://extensions/ na barra de url do navegador
+1 - Digite: chrome://extensions/ || opera://extensions/ na barra de url do navegador
 
 2 - Click no botão "Carregar sem compactação"
 
